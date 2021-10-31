@@ -3,6 +3,14 @@
 
 Repository for handwriting certification test and prototype
 
+Google Colabratory用
+
+For Google Colabratory
+
+マイドライブ/colabの中にhisseki_test_pyとしてリポジトリを保存してください
+
+Please save the repository in MyDrive/colab as hisseki_test_py.
+
 ## Directory structure
 
 ```
