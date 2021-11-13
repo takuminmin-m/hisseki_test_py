@@ -11,6 +11,11 @@ For Google Colabratory
 
 Please save the repository in MyDrive/colab as hisseki_test_py.
 
+## Purpose of this directory
+[筆跡アプリ](https://github.com/takuminmin-m/hisseki_server)のユーザー認識・認証機能の精度向上に向けての実験のために作成しました。筆跡アプリでは、RubyからPyCallを経由してTensorFlowを呼び出しましたが、このリポジトリではネットの情報などを参考にしやすいためPythonを使って直接TensorFlowを呼び出しています。
+
+It's to improve the accuracy of user classification and certification in [hisseki_server](https://github.com/takuminmin-m/hisseki_server). In hisseki_serverm TensorFlow is called by Ruby via PyCall. But in this repository, it is called by Python directlry because you can refer to various information easily.
+
 ## Directory structure
 
 ```
