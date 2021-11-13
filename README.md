@@ -34,3 +34,8 @@ Please save the repository in MyDrive/colab as hisseki_test_py.
 4
 .....
 ```
+
+## What's the dataset?
+[筆跡鑑定アプリ](https://github.com/takuminmin-m/hisseki_server)を用いて収集した128*128pxの筆跡画像です。ラベルは書いた人を示します。一部誤操作などによりノイズデータが含まれています。
+
+It's 128*128px images of handwriting made by [hisseki_server](https://github.com/takuminmin-m/hisseki_server). The labels mean writer of the image. This dataset includes a little noise data.
